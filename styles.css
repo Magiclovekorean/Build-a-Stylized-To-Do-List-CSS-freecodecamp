@@ -1,5 +1,6 @@
 body {
-    background-color: antiquewhite
+    background-color: antiquewhite;
+    text-align: center;
 }
 
 h1 {
@@ -48,4 +49,8 @@ div {
 
 .sub-item {
     padding-top: 5px;
+}
+
+footer {
+    margin-top: 20px
 }
